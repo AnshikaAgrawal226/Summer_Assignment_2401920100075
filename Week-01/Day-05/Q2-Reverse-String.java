@@ -1,6 +1,4 @@
-
-
-public class Q2{
+class Solution{
     public void reverseString(char[] s) {
         char temp;
         int i=0; 
@@ -15,3 +13,5 @@ public class Q2{
         System.out.println(s);
     }
 }
+
+

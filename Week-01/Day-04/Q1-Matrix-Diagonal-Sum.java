@@ -1,4 +1,4 @@
-public class Q1 {
+class Q1 {
     class Solution {
     public int diagonalSum(int[][] mat) {
         int sum =0;
